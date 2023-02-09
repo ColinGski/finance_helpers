@@ -1,0 +1,12 @@
+C:\Users\qisope\Documents\GitHub\finance_helpers\FinanceHelpersSolution\NoOne.FinanceHelpers\obj\Debug\net7.0\NoOne.FinanceHelpers.csproj.AssemblyReference.cache
+C:\Users\qisope\Documents\GitHub\finance_helpers\FinanceHelpersSolution\NoOne.FinanceHelpers\obj\Debug\net7.0\NoOne.FinanceHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qisope\Documents\GitHub\finance_helpers\FinanceHelpersSolution\NoOne.FinanceHelpers\obj\Debug\net7.0\NoOne.FinanceHelpers.AssemblyInfoInputs.cache
+C:\Users\qisope\Documents\GitHub\finance_helpers\FinanceHelpersSolution\NoOne.FinanceHelpers\obj\Debug\net7.0\NoOne.FinanceHelpers.AssemblyInfo.cs
+C:\Users\qisope\Documents\GitHub\finance_helpers\FinanceHelpersSolution\NoOne.FinanceHelpers\obj\Debug\net7.0\NoOne.FinanceHelpers.csproj.CoreCompileInputs.cache
+C:\Users\qisope\Documents\GitHub\finance_helpers\FinanceHelpersSolution\NoOne.FinanceHelpers\bin\Debug\net7.0\NoOne.FinanceHelpers.deps.json
+C:\Users\qisope\Documents\GitHub\finance_helpers\FinanceHelpersSolution\NoOne.FinanceHelpers\bin\Debug\net7.0\NoOne.FinanceHelpers.dll
+C:\Users\qisope\Documents\GitHub\finance_helpers\FinanceHelpersSolution\NoOne.FinanceHelpers\bin\Debug\net7.0\NoOne.FinanceHelpers.pdb
+C:\Users\qisope\Documents\GitHub\finance_helpers\FinanceHelpersSolution\NoOne.FinanceHelpers\obj\Debug\net7.0\NoOne.FinanceHelpers.dll
+C:\Users\qisope\Documents\GitHub\finance_helpers\FinanceHelpersSolution\NoOne.FinanceHelpers\obj\Debug\net7.0\refint\NoOne.FinanceHelpers.dll
+C:\Users\qisope\Documents\GitHub\finance_helpers\FinanceHelpersSolution\NoOne.FinanceHelpers\obj\Debug\net7.0\NoOne.FinanceHelpers.pdb
+C:\Users\qisope\Documents\GitHub\finance_helpers\FinanceHelpersSolution\NoOne.FinanceHelpers\obj\Debug\net7.0\ref\NoOne.FinanceHelpers.dll
